@@ -89,6 +89,7 @@ pip install youtube_dl
 pip install PyNaCl
 Configura tu token de Discord:
 Abri el archivo RADIO_GAGA.py y reemplazá "#" con tu token real del bot en la última linea de código. bot.run("#")
+Pagina donde creas tu bot y obtenes el token: discord.com/developers/applications
 
 🎧 Comandos disponibles
 
